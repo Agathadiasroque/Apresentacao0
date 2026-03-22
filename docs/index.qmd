@@ -27,7 +27,7 @@ format:
 
 **Autores:** Marcela de Abreu Moniz, Cleber Nascimento do Carmo, Sandra de Souza Hacon.
 
-**Motivação:** Compreender como os moradores percebem a qualidade ambiental dos locais onde vivem por conta do Complexo Petroquímico do Rio de Janeiro (COMPERJ). Isso pode contribuir para o planejamento de ações e políticas públicas voltadas à promoção da saúde e à questões ambientais.
+**Motivação:** Compreender como os moradores percebem a qualidade ambiental dos locais onde vivem e trabalham, por conta do Complexo Petroquímico do Rio de Janeiro (COMPERJ), como uma ferramenta intersetorial de promoção da saúde que pode contribuir para a equidade na saúde coletiva.
 
 ---
 
@@ -44,13 +44,25 @@ format:
 
 **Fatores de exposição:**
 
+- Dados sociodemográficos (gênero; renda familiar; faixa etária; escolaridade)
 - Localidade (Porto das Caixas e Manilha)
 - Fatores ambientais (ar, rios, ruas, lazer)
 - Serviços públicos (água, esgoto, lixo, saúde, segurança)
+- Percepção sobre a ocorrência de eventos agudos (acidentes, tragédias)
+
+**Contexto**
+
+| Cidade               | Manilha | Porto das Caixas |
+|----------------------|---------|------------------|
+| Tamanho da População | 60.000  |       3782       |
+| Distância da COMPERJ |  22 Km  |       0 Km       |
+| Unidades de saúde    |   17    |        1         |
 
 **Desfecho:**
 
-- Percepção da qualidade ambiental (boa, regular, ruim)
+- Percepção da qualidade ambiental - Avaliada através de uma categorização ordinal (boa, regular, ruim
+
+- 
 
 ---
 
@@ -93,20 +105,32 @@ p < 0,05 → associação significativa
 
 ## **Principais achados**
 
-- Existem diferenças significativas entre as localidades  
-- A percepção ambiental varia conforme o contexto local  
+- A categoria Lazer, foi igualmente percebida pelos dois grupos de participantes como o de pior qualidade
+
+Estes achados evidenciam a necessidade de:
+
+- Serem criadas áreas de lazer e cultura
+- Estudos de monitoramento do ar 
+- Estratégias de melhorias de infraestrutura dos serviços públicos: segurança, saneamento ambiental, saúde e ruas nas duas localidades estudadas
+- Ações de vigilância das condições do solo, dos rios e de saúde em Porto das Caixas.
 
 ---
 
 ## **Importância dos testes de associação**
 
-- Permitem identificar diferenças reais entre grupos  
-- Transformam dados em evidência científica  
+
+Os testes de associação, como o teste qui-quadrado e o teste exato de Fisher, são fundamentais em pesquisas porque eles respondem uma pergunta central: **existe relação entre duas variáveis?**
+
+Esses testes promovem:
+
+- Sustentação científica
+- Teste de hipóteses de forma objetiva
+- Base para tomada de decisão
 
 ---
 
 ## **Contribuição para a sociedade**
 
 - Auxilia na formulação de políticas públicas  
-- Ajuda a reduzir problemas ambientais e diferença entre eles  
+- Estimula a priorização de intervenções para reverter problemas ambientais    
 - Valoriza a percepção da população
