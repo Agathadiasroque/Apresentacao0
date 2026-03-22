@@ -50,6 +50,8 @@ format:
 - Serviços públicos (água, esgoto, lixo, saúde, segurança)
 - Percepção sobre a ocorrência de eventos agudos (acidentes, tragédias)
 
+---
+
 **Contexto**
 
 | Cidade               | Manilha | Porto das Caixas |
@@ -61,8 +63,6 @@ format:
 **Desfecho:**
 
 - Percepção da qualidade ambiental - Avaliada através de uma categorização ordinal (boa, regular, ruim
-
-- 
 
 ---
 
