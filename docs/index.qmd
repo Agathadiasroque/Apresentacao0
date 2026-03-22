@@ -35,7 +35,13 @@ format:
 
 ---
 
-**Método de coleta:** Foi realizado um estudo transversal com 240 residentes do município de Itaboraí, sendo 120 do distrito de Porto das Caixas e 120 de Manilha. A amostra foi obtida via amostragem aleatória simples, sem reposição, a partir de um censo de alunos matriculados nas escolas locais, aplicando questionários aos responsáveis por esses estudantes.
+**Método de coleta:** 
+
+- Estudo transversal, sendo uma amostragem aleatória simples, sem reposição.  
+
+- 240 residentes do município de Itaboraí (120 de Porto das Caixas e 120 de Manilha).
+
+- Questionário aos responsáveis de alunos matriculados nas escolas locais.
 
 # **CAPÍTULO 2**{data-background-image="Capa.png" style="text-align:center"}
 
